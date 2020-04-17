@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">KotlinJsonProject</string>
+    <string name="name">Captain America</string>
+    <string name="team">Avengers</string>
+    <string name="createdby">Joe Simon</string>
+
+
+
 </resources>
