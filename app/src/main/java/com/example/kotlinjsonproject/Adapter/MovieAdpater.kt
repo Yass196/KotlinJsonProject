@@ -30,7 +30,7 @@ class MovieAdapter(private val context : Context, private val MovieList : Mutabl
         holder.txt_createdby.text = MovieList[position].createdby
 
     }
-    
+
 
     class MyViewHolder(itemView : View) : RecyclerView.ViewHolder(itemView){
 var image : ImageView
